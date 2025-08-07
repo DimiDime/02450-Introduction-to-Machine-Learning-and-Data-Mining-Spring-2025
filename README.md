@@ -40,6 +40,7 @@ Here’s a taste of what you’ll find inside — a visualization from **Project
 ├── Project 2/
 └── README.md
 
+```
 ---
 
 ## 🧠 What You'll Learn
