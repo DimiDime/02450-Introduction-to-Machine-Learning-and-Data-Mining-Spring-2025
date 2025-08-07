@@ -6,10 +6,10 @@ This course covers foundational topics in machine learning, including supervised
 
 Tools such as Python, NumPy, and scikit-learn are used throughout.
 
-
+Below, you can view an example of the Data Analysis from Project 1:
 
 <p align="center">
-  <img src="Project 1/img/OutliersAnalysis2.png" alt="Outliers Analysis from Project 1" width="600"/>
+  <img src="Project 1/img/3DSkatter.png" alt="PCA Analysis from Project 1" width="600"/>
 </p>
 
 ---
