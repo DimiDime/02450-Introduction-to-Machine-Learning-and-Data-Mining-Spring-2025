@@ -6,7 +6,12 @@ This course covers foundational topics in machine learning, including supervised
 
 Tools such as Python, NumPy, and scikit-learn are used throughout.
 
-![Outliers Analysis from Project 1](Project 1/img/OutliersAnalysis2.png)
+
+
+<p align="center">
+  <img src="Project 1/img/OutliersAnalysis2.png" alt="Outliers Analysis from Project 1" width="600"/>
+</p>
+
 ---
 
 ## 📁 Repository Structure
