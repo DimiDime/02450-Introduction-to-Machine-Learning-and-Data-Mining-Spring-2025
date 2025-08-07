@@ -1,4 +1,4 @@
-<img width="1485" height="5105" alt="OutliersAnalysis2" src="https://github.com/user-attachments/assets/b0717aec-f78c-4316-947e-c0e838e06e4c" /># 📘 02450 - Introduction to Machine Learning and Data Mining (Spring 2025)
+📘 02450 - Introduction to Machine Learning and Data Mining (Spring 2025)
 
 Welcome to my repository for the DTU course **02450 – Introduction to Machine Learning and Data Mining**, taken in Spring 2025.
 
