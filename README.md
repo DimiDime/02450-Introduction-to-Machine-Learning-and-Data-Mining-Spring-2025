@@ -26,20 +26,19 @@ Here’s a taste of what you’ll find inside — a visualization from **Project
 
 ## 📁 Repository Structure
 
-\`\`\`plaintext
+```plaintext
 .
-├── Course First Half/        # Weekly exercises from weeks 1–7
+├── Course First Half/
 │   ├── Week 1/
 │   ├── Week 2/
 │   └── ...
-├── Course Second Half/       # Exercises from weeks 8–13
+├── Course Second Half/
 │   ├── Week 8/
 │   ├── Week 9/
 │   └── ...
-├── Project 1/                # Regression-based modeling and analysis
-├── Project 2/                # Classification-based project with ANN + Ridge
+├── Project 1/
+├── Project 2/
 └── README.md
-\`\`\`
 
 ---
 
